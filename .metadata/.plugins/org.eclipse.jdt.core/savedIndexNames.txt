@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\nikol\Desktop\projectaop1005Jaixen\.metadata\.plugins\org.eclipse.jdt.core
+2436124010.index
+1865797976.index
+3164453816.index
+179299382.index
